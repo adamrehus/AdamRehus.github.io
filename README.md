@@ -26,3 +26,4 @@ Add English language and UTF-8 tags by modifying index.html so that it looks lik
 </body>
 </html>
 ```
+![IMG_0624](https://github.com/adamrehus/AdamRehus.github.io/assets/143632600/1df979ae-09b3-4e70-96b5-b9eca934efce)
