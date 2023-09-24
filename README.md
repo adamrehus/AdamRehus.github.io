@@ -54,3 +54,10 @@ Add English language and UTF-8 tags by modifying index.html so that it looks lik
 	<p>I broke my collar bone when I was 10 years old.</p>
 </body>
 </html>
+
+ </head>
+<body>
+	<h1>Greatest Innovations</h1>
+	<p>.</p>
+</body>
+</html>
