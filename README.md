@@ -51,6 +51,6 @@ Add English language and UTF-8 tags by modifying index.html so that it looks lik
    </head>
 <body>
 	<h1>Fun Fact</h1>
-	<p>I used to own a Porsche Boxster S.</p>
+	<p>I broke my collar bone when I was 10 years old.</p>
 </body>
 </html>
