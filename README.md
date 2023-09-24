@@ -18,7 +18,7 @@ Add English language and UTF-8 tags by modifying index.html so that it looks lik
 <html lang="en">
 <head>
 <meta charset="utf-8">
-	<title>Page Title</title>
+	<title>Adam Rehus</title>
 </head>
 <body>
 	<h1>This is a Heading</h1>
