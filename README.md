@@ -29,3 +29,6 @@ Add English language and UTF-8 tags by modifying index.html so that it looks lik
 
 
 ![IMG_0624](https://github.com/adamrehus/AdamRehus.github.io/assets/143632600/1df979ae-09b3-4e70-96b5-b9eca934efce)
+
+       <p>My email is adamprehus@lewis.edu</p>
+       <p>My discord is adamrehus_61124</p>
