@@ -34,4 +34,9 @@ Add English language and UTF-8 tags by modifying index.html so that it looks lik
        <p>My discord is adamrehus_61124</p>
 
 
-       <h1>Introduction</h1>
+    </head>
+<body>
+	<h1>Introducion</h1>
+	<p>I am a computer science major, I have a one younger sister and a weiner dog.I used to play hockey and in my free time I like to lift.</p>
+</body>
+</html>
