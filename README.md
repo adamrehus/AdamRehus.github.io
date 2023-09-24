@@ -37,7 +37,7 @@ Add English language and UTF-8 tags by modifying index.html so that it looks lik
     </head>
 <body>
 	<h1>Introducion</h1>
-	<p>I am a computer science major, I have a one younger sister and a weiner dog.I used to play hockey and in my free time I like to lift.</p>
+	<p>I am a computer science major, I chose this major because I think it has serious potential in the future since it is one of the fasting growing industries in the world. I have a one younger sister and a weiner dog named Kaner, he is named after Patrick Kane and we got him in 2011 after the Blackhawks won a stanley cup.I used to play hockey for 10 years and in my free time I like to go to the gym with my friends.</p>
 </body>
 </html>
 
