@@ -55,7 +55,7 @@ Add English language and UTF-8 tags by modifying index.html so that it looks lik
 </body>
 </html>
 
- </head>
+  </head>
 <body>
 	<h1>Greatest Innovations</h1>
 	<p>.</p>
