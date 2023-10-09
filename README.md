@@ -61,3 +61,15 @@ Add English language and UTF-8 tags by modifying index.html so that it looks lik
 	<p>.</p>
 </body>
 </html>
+
+<html>
+<head>
+<style>
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  color: white;
+  text-align: center; 
+}
