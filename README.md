@@ -70,6 +70,6 @@ body {
 }
 
 h1 {
-  color: white;
+  color: red;
   text-align: center; 
 }
