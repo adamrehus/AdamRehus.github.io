@@ -40,8 +40,8 @@
                 <label><input type="radio" name="q1" value="a">a) 1</label>
                 <label><input type="radio" name="q1" value="b">b) 2</label>
                 <label><input type="radio" name="q1" value="c">c) 3</label> 
-                <label><input type="radio" name="q1" value="c">c) 4</label> 
-                <label><input type="radio" name="q1" value="c">c) 5</label>
+                <label><input type="radio" name="q1" value="d">d) 4</label> 
+                <label><input type="radio" name="q1" value="e">e) 5</label>
             </div>
 
             <div class="question">
@@ -49,8 +49,8 @@
                 <label><input type="radio" name="q1" value="a">a) 1</label>
                 <label><input type="radio" name="q1" value="b">b) 2</label>
                 <label><input type="radio" name="q1" value="c">c) 3</label> 
-                <label><input type="radio" name="q1" value="c">c) 4</label> 
-                <label><input type="radio" name="q1" value="c">c) 5</label>
+                <label><input type="radio" name="q1" value="d">d) 4</label> 
+                <label><input type="radio" name="q1" value="e">e) 5</label>
             </div>
 
             <div class="question">
@@ -58,8 +58,8 @@
                 <label><input type="radio" name="q1" value="a">a) 1</label>
                 <label><input type="radio" name="q1" value="b">b) 2</label>
                 <label><input type="radio" name="q1" value="c">c) 3</label> 
-                <label><input type="radio" name="q1" value="c">c) 4</label> 
-                <label><input type="radio" name="q1" value="c">c) 5</label>
+                <label><input type="radio" name="q1" value="d">d) 4</label> 
+                <label><input type="radio" name="q1" value="e">e) 5</label>
             </div>
 
             <div class="question">
@@ -67,8 +67,8 @@
                 <label><input type="radio" name="q1" value="a">a) 1</label>
                 <label><input type="radio" name="q1" value="b">b) 2</label>
                 <label><input type="radio" name="q1" value="c">c) 3</label> 
-                <label><input type="radio" name="q1" value="c">c) 4</label> 
-                <label><input type="radio" name="q1" value="c">c) 5</label>
+                <label><input type="radio" name="q1" value="d">d) 4</label> 
+                <label><input type="radio" name="q1" value="e">e) 5</label>
             </div>
 
             <div class="question">
@@ -76,8 +76,8 @@
                 <label><input type="radio" name="q1" value="a">a) 1</label>
                 <label><input type="radio" name="q1" value="b">b) 2</label>
                 <label><input type="radio" name="q1" value="c">c) 3</label> 
-                <label><input type="radio" name="q1" value="c">c) 4</label> 
-                <label><input type="radio" name="q1" value="c">c) 5</label>
+                <label><input type="radio" name="q1" value="d">d) 4</label> 
+                <label><input type="radio" name="q1" value="e">e) 5</label>
             </div>
 
             <input type="submit" value="Submit">
