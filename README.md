@@ -1,6 +1,18 @@
 <!DOCTYPE html>
 <html>
 <head>
+<style>
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+}
+<!DOCTYPE html>
+<html>
+<head>
     <title>The Matchmaker</title>
     <style>
         body {
