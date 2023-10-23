@@ -15,61 +15,93 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) f
 Add English language and UTF-8 tags by modifying index.html so that it looks like this:
 ```
 <!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="utf-8">
-	<title>Adam Rehus</title>
-</head>
-<body>
-	<h1>This is a Heading</h1>
-	<p>This is a paragraph.</p>
-</body>
-</html>
-
-
-
-![IMG_0624](https://github.com/adamrehus/AdamRehus.github.io/assets/143632600/1df979ae-09b3-4e70-96b5-b9eca934efce)
-
-       <p>My email is adamprehus@lewis.edu</p>
-       <p>My discord is adamrehus_61124</p>
-
-
-    </head>
-<body>
-	<h1>Introducion</h1>
-	<p>I am a computer science major, I chose this major because I think it has serious potential in the future since it is one of the fasting growing industries in the world. I have a one younger sister and a weiner dog named Kaner, he is named after Patrick Kane and we got him in 2011 after the Blackhawks won a stanley cup.I used to play hockey for 10 years and in my free time I like to go to the gym with my friends.</p>
-</body>
-</html>
-
-   </head>
-<body>
-	<h1>What I Hope To Learn From This Course</h1>
-	<p>- I hope to learn the basics and fundementals of coding - I hope to understand how different languages work - I hope to understand the purpose of each language - I hope to learn the basics of web development.</p>
-</body>
-</html>
-
-  </head>
-<body>
-	<h1>Fun Fact</h1>
-	<p>I broke my collar bone when I was 10 years old.</p>
-</body>
-</html>
-
-  </head>
-<body>
-	<h1>Greatest Innovations</h1>
-	<p>.</p>
-</body>
-</html>
-
 <html>
 <head>
 <style>
 body {
-  background-color: lightblue;
+  background-color: lightgreen;
 }
 
 h1 {
-  color: red;
-  text-align: center; 
+  color: black;
+  text-align: center;
 }
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
+</style>
+</head>
+<body>
+
+<h1>Matchmaker For Web</h1>
+<p><p align="center">
+// Your content
+</p>******************************************************
+
+                          Matchmaker 
+
+               America’s new best thing 
+
+                               2023
+
+                    
+
+******************************************************
+
+To each question, answer 5
+
+if you strongly agree, 4 if you agree, 3 if you neither
+
+agree nor disagree, 2 if you disagree, and 1 if you
+
+strongly disagree.
+
+
+Decide Your Future…. 
+
+
+Question 1
+
+----------
+
+Rap music is overrated: 4
+
+
+Question 2
+
+----------
+
+Hockey is the best sport: 5
+
+
+Question 3
+
+----------
+
+The Blackhawks are the most popular team in Chicago: 3
+
+
+Question 4
+
+----------
+
+Porsche is better than BMW,Audi,Mercedes-Benz: 5
+
+
+Question 5
+
+----------
+
+Chick Fil A is better than Chipotle: 3
+
+
+Your score was 20.
+
+Looking Good 
+
+</p>
+
+</body>
+</html>
