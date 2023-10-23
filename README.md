@@ -1,77 +1,88 @@
 <!DOCTYPE html>
 <html>
 <head>
-<style>
-body {
-  background-color: lightblue;
-}
-
-h1 {
-  color: white;
-  text-align: center;
-}
-
-p {
-  font-family: verdana;
-  font-size: 20px;
-}
-</style>
-</head>
-<body>
-
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Matchmaker</title>
+    <title>The Matchmaker</title>
     <style>
         body {
-            background-color: blue;
+            background-color: #3498db;
+            font-family: Arial, sans-serif;
             text-align: center;
         }
+        .container {
+            max-width: 600px;
+            margin: 0 auto;
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+        }
         h1 {
-            color: white;
+            color: #3498db;
         }
         .question {
-            color: white;
-            font-size: 18px;
-            margin: 20px;
-            cursor: pointer;
+            text-align: left;
+            margin-bottom: 15px;
+        }
+        input[type="radio"] {
+            margin-right: 10px;
+        }
+        label {
+            display: block;
         }
     </style>
 </head>
 <body>
-    <h1>Welcome to Matchmaker</h1>
-    <div class="question" onclick="showAnswer(1)">
-        <p>1. Rap music is overrated</p>
-        <p id="answer1" style="display: none">Answer: Strongly Agree</p>
-    </div>
-    <div class="question" onclick="showAnswer(2)">
-        <p>2. Halloween is the best Holiday</p>
-        <p id="answer2" style="display: none">Answer: Agree</p>
-    </div>
-    <div class="question" onclick="showAnswer(3)">
-        <p>3. Iced Coffee is better than warm Coffee</p>
-        <p id="answer3" style="display: none">Answer: Disagree</p>
-    </div>
-    <div class="question" onclick="showAnswer(4)">
-        <p>4. Blackhawks are the best team in Chicago</p>
-        <p id="answer4" style="display: none">Answer: Agree</p>
-    </div>
-    <div class="question" onclick="showAnswer(5)">
-        <p>5. Porsche is better than Audi, BMW, Mercedes Benz</p>
-        <p id="answer5" style="display: none">Answer: Strongly Agree</p>
-    </div>
+    <div class="container">
+        <h1>Matchmaker Quiz</h1>
+        <form>
+            <div class="question">
+                <p>1. Rap music is overrated</p>
+                <label><input type="radio" name="q1" value="a">a) 1</label>
+                <label><input type="radio" name="q1" value="b">b) 2</label>
+                <label><input type="radio" name="q1" value="c">c) 3</label> 
+                <label><input type="radio" name="q1" value="c">c) 4</label> 
+                <label><input type="radio" name="q1" value="c">c) 5</label>
+            </div>
 
-    <script>
-        function showAnswer(questionNumber) {
-            const answer = document.getElementById(`answer${questionNumber}`);
-            if (answer.style.display === "none") {
-                answer.style.display = "block";
-            } else {
-                answer.style.display = "none";
-            }
-        }
-    </script>
+            <div class="question">
+                <p>2. Halloween is the best holiday</p>
+                <label><input type="radio" name="q1" value="a">a) 1</label>
+                <label><input type="radio" name="q1" value="b">b) 2</label>
+                <label><input type="radio" name="q1" value="c">c) 3</label> 
+                <label><input type="radio" name="q1" value="c">c) 4</label> 
+                <label><input type="radio" name="q1" value="c">c) 5</label>
+            </div>
+
+            <div class="question">
+                <p>3. Iced Coffee is better than warm coffee</p>
+                <label><input type="radio" name="q1" value="a">a) 1</label>
+                <label><input type="radio" name="q1" value="b">b) 2</label>
+                <label><input type="radio" name="q1" value="c">c) 3</label> 
+                <label><input type="radio" name="q1" value="c">c) 4</label> 
+                <label><input type="radio" name="q1" value="c">c) 5</label>
+            </div>
+
+            <div class="question">
+                <p>4. Blackhawks are the best team in Chicago</p>
+                <label><input type="radio" name="q1" value="a">a) 1</label>
+                <label><input type="radio" name="q1" value="b">b) 2</label>
+                <label><input type="radio" name="q1" value="c">c) 3</label> 
+                <label><input type="radio" name="q1" value="c">c) 4</label> 
+                <label><input type="radio" name="q1" value="c">c) 5</label>
+            </div>
+
+            <div class="question">
+                <p>5. Porsche is better than Audi,Mercedes,BMW</p>
+                <label><input type="radio" name="q1" value="a">a) 1</label>
+                <label><input type="radio" name="q1" value="b">b) 2</label>
+                <label><input type="radio" name="q1" value="c">c) 3</label> 
+                <label><input type="radio" name="q1" value="c">c) 4</label> 
+                <label><input type="radio" name="q1" value="c">c) 5</label>
+            </div>
+
+            <input type="submit" value="Submit">
+        </form>
+    </div>
 </body>
 </html>
+       
